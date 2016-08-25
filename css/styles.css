@@ -1,0 +1,19 @@
+#content {
+    position: relative;
+    width: 100%;
+}
+#sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 240px;
+}
+#main {
+    position: relative;
+    margin-left: 250px;
+}
+
+.navbar-right{
+
+}
